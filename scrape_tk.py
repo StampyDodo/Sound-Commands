@@ -8,7 +8,7 @@ import time
 import tkinter as tk
 import tkinter.scrolledtext as st
 
-url = "https://gist.githubusercontent.com/StampyDodo/19a563dfad9c9e6a6d1a3512346aaba4/raw/b93ce1c936f28837e8294f44461d8dcf2c0100d3/gistfile1.md"
+url = "https://gist.githubusercontent.com/StampyDodo/19a563dfad9c9e6a6d1a3512346aaba4/raw/"
 response = None
 commands = None
 count = None
